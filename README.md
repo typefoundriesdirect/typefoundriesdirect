@@ -4,7 +4,7 @@ I’m proud to announce Type Foundries Direct!  A search engine and website buil
 
 I look forward to releasing my project and helping independent type foundries and type designers stay independent and grow their businesses.
 
-If you have ideas or feedback, please [contact me](https://typefoundries.direct/contact).  Otherwise, follow me on GitHub [@typefoundriesdirect]([url](https://github.com/typefoundriesdirect)) to stay up to date with my progress.  Thanks for your support!
+If you have ideas or feedback, please [contact me](https://typefoundries.direct/contact).  Otherwise, follow me on GitHub [@typefoundriesdirect](https://github.com/typefoundriesdirect) to stay up to date with my progress.  Thanks for your support!
 
 <!---
 typefoundriesdirect/typefoundriesdirect is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
